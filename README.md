@@ -1,15 +1,15 @@
 # Employee Analysis Project
 
-## 📊 Description
+## Description
 This project creates a synthetic employee database and performs analysis using SQL and Pandas.
 
-## 🛠️ Tools Used
+## Tools Used
 - Python
 - SQLite
 - Pandas
 
-## 📁 Files
+## Files
 - EmployeeAnalysis_Archita_123.ipynb
 
-## 👩‍💻 Author
+## Author
 Archita
